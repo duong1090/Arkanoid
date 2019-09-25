@@ -1,0 +1,22 @@
+F:\New folder\Midterm - Copy\Game\bin\Debug\Game.exe.config
+F:\New folder\Midterm - Copy\Game\bin\Debug\Game.exe
+F:\New folder\Midterm - Copy\Game\bin\Debug\Game.pdb
+F:\New folder\Midterm - Copy\Game\obj\Debug\Game.csprojAssemblyReference.cache
+F:\New folder\Midterm - Copy\Game\obj\Debug\Game.Form1.resources
+F:\New folder\Midterm - Copy\Game\obj\Debug\Game.FormNamePlayer.resources
+F:\New folder\Midterm - Copy\Game\obj\Debug\Game.Properties.Resources.resources
+F:\New folder\Midterm - Copy\Game\obj\Debug\Game.csproj.GenerateResource.cache
+F:\New folder\Midterm - Copy\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+F:\New folder\Midterm - Copy\Game\obj\Debug\Game.exe
+F:\New folder\Midterm - Copy\Game\obj\Debug\Game.pdb
+E:\Learning\Term 4\Windows Programming\Midterm\Arkanoid\Arkanoid\Game\bin\Debug\Game.exe.config
+E:\Learning\Term 4\Windows Programming\Midterm\Arkanoid\Arkanoid\Game\bin\Debug\Game.exe
+E:\Learning\Term 4\Windows Programming\Midterm\Arkanoid\Arkanoid\Game\bin\Debug\Game.pdb
+E:\Learning\Term 4\Windows Programming\Midterm\Arkanoid\Arkanoid\Game\obj\Debug\Game.csprojAssemblyReference.cache
+E:\Learning\Term 4\Windows Programming\Midterm\Arkanoid\Arkanoid\Game\obj\Debug\Game.Form1.resources
+E:\Learning\Term 4\Windows Programming\Midterm\Arkanoid\Arkanoid\Game\obj\Debug\Game.FormNamePlayer.resources
+E:\Learning\Term 4\Windows Programming\Midterm\Arkanoid\Arkanoid\Game\obj\Debug\Game.Properties.Resources.resources
+E:\Learning\Term 4\Windows Programming\Midterm\Arkanoid\Arkanoid\Game\obj\Debug\Game.csproj.GenerateResource.cache
+E:\Learning\Term 4\Windows Programming\Midterm\Arkanoid\Arkanoid\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+E:\Learning\Term 4\Windows Programming\Midterm\Arkanoid\Arkanoid\Game\obj\Debug\Game.exe
+E:\Learning\Term 4\Windows Programming\Midterm\Arkanoid\Arkanoid\Game\obj\Debug\Game.pdb
